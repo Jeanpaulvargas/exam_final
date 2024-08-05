@@ -1,5 +1,5 @@
 <?php
-require_once 'conexion.php';
+require_once '../modelos/conexion.php';
 
 class Usuario extends Conexion
 {
